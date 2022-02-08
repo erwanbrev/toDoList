@@ -1,5 +1,5 @@
 1ère étape : 
-<!-- ? Il va falloir réussir à générer du HTML au moment où on tape dans le formulaire -->
+- Il va falloir réussir à générer du HTML au moment où on tape dans le formulaire
 
 2eme étape :
 - En utilisant la fonction précédemment créée, pour chaque nouvelle entrée on va créer un nouvel objet en conservant les anciens. 
