@@ -1,4 +1,4 @@
-## The published site is [here](https://erwanbrev.github.io/toDoList/) ! 
+## Le site est accessible [ici](https://erwanbrev.github.io/toDoList/) ! 
 
 1ère étape : 
 - Il va falloir réussir à générer du HTML au moment où on tape dans le formulaire
